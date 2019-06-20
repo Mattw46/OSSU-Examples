@@ -13,7 +13,6 @@ Here I am following the Computer Science curriculum (https://github.com/ossu/com
 The code is organised by Section > Course. Languages will vary depending the the langauged perscribed.
 
 *Sections*
-* Prequisites
 * Introduction to Computer Science
 * Core CS
 * Advanced CD
